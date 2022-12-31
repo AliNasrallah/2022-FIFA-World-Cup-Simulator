@@ -1,6 +1,6 @@
 import random
 
-#FORMAT: [WCs, ranking, defense, attack]
+#FORMAT: [WCs, FIFA ranking, defense, attack]
 
 groups = {'A':{'Qatar':[0,60,55,59], 'Ecuador':[0,41,65,65], 'Senegal':[0,19,77,82], 'Netherlands':[0,6,91,88]},
     'B':{'England':[1,5,87, 92],'IR Iran':[0,24,70,70], 'USA':[0,13,75,75], 'Wales':[0,28,70,76]},
